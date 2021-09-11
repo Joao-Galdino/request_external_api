@@ -31,6 +31,7 @@ pytest==6.2.5
 PyYAML==5.4.1
 regex==2021.8.28
 requests==2.26.0
+requests-mock==1.9.3
 six==1.16.0
 toml==0.10.2
 tomli==1.2.1
